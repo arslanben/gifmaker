@@ -1,6 +1,6 @@
 ![gifmaker](https://www.upload.ee/image/15207648/image1.png)
 
-# Tell me about GifMaker. :smiley:
+# GifMaker
 
 Python code to convert an existing video to .gif format. 
 
